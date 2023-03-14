@@ -4,6 +4,12 @@ Next.js (React(HTML, JavaScript)), React-Bootstrap-CSS, OpenWeather API, Mapbox 
 # Windal
 A small app, that can display the weather by text and country search or by hovering over an area in the world.
 
+<div>
+<img src="https://user-images.githubusercontent.com/43116175/224972321-b28d9e13-890e-454f-8547-1484637609ce.jpg" alt="example 2" height="300" />
+<img src="https://user-images.githubusercontent.com/43116175/224972315-cc469040-2c7c-4572-b26b-ebcc0c2bca7a.jpg" alt="example 1" height="300" />
+<img src="https://user-images.githubusercontent.com/43116175/224972329-c992de25-6ad4-49c7-8b90-4c252ceb964f.jpg" alt="example 3" height="300" />
+</div>
+
 - - -
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
