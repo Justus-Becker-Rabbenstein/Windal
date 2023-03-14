@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+body {
+background: rgb(238,233,218);
+background: linear-gradient(0deg, rgba(238,233,218,1) 0%, rgba(96,150,180,1) 100%);
+background-repeat: no-repeat;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
