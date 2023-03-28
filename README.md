@@ -20,6 +20,8 @@ Create .env.local and write your API keys for OpenWeatherAPI and Mapbox API into
 API_WEATHER=xxx
 API_MAP=xxx
 
+<hr />
+
 First, run the development server:
 
 ```bash
